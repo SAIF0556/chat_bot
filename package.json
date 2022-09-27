@@ -1,0 +1,22 @@
+{
+  "name": "socket_yt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAIF0556/chat_bot.git"
+  },
+  "author": "saif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAIF0556/chat_bot/issues"
+  },
+  "homepage": "https://github.com/SAIF0556/chat_bot#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
